@@ -1,3 +1,4 @@
+
 .text-analysis {
     margin: 20px auto;
     max-width: 600px;
@@ -9,7 +10,7 @@
   }
   
   textarea {
-    width: 100%;
+    width: 80%;
     height: 200px;
     padding: 12px;
     font-size: 16px;
@@ -72,4 +73,5 @@
       margin-top: 10px;
     }
   }
+  
   
